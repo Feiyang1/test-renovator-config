@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Feiyang1/test-renovator-config/issues"
   },
-  "homepage": "https://github.com/Feiyang1/test-renovator-config#readme"
+  "homepage": "https://github.com/Feiyang1/test-renovator-config#readme",
+  "dependencies": {
+    "typescript": "3.0.0",
+    "eslint": "6.0.0",
+    "webpack": "4.33.0"
+  }
 }
