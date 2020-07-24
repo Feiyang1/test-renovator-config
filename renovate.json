@@ -8,13 +8,9 @@
   "masterIssue": true,
   "packageRules": [
     {
-      "packagePatterns": [
-        "^((?!^typescript$).)*$"
-      ],
-      "minor": {
-        "groupName": "all non-major dependencies",
-        "groupSlug": "all-minor-patch"
-      }
+      "updateTypes": ["pin"],
+      "packageNames": ["tslib"],
+      "enabled": false
     }
   ],
   "assignees": [

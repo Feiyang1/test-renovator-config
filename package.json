@@ -18,8 +18,9 @@
   "homepage": "https://github.com/Feiyang1/test-renovator-config#readme",
   "dependencies": {
     "typescript": "3.5.3",
-    "eslint": "6.0.0",
-    "webpack": "4.33.0",
+    "tslib":"^1.1.0",
+    "eslint": "^6.0.0",
+    "webpack": "^4.33.0",
     "rollup-plugin-uglify": "6.0.2"
   }
 }
