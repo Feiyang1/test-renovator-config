@@ -19,7 +19,7 @@
   "dependencies": {
     "typescript": "3.5.3",
     "tslib":"^2.0.0",
-    "eslint": "^6.0.0",
+    "eslint": "^7.0.0",
     "webpack": "^4.33.0",
     "rollup-plugin-uglify": "6.0.2"
   }
